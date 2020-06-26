@@ -1,6 +1,8 @@
 <section id="identite">
 	<section>
-		<img src="LOGO-PEAKCELL-BLANC-SANS-FOND.png" alt="PEAKCELL" id="logo">
+		<a href="<?php echo home_url( '/' ); ?>">
+	      <img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logo" id="logo">
+		</a>  
 		<h2 id="baseline">La performance au service de la carrosserie</h2>
 	</section>
 </section>

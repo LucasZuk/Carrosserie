@@ -1,0 +1,17 @@
+/*
+Theme Name: Carrossier2020
+Author: Lucas ZUKERVAR
+Author URI: https://www.lucaszuk.fr
+Description: Theme for auto body  repair
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+.menu {
+    position: fixed;
+    top: 0px;
+}
+
+.admin-bar .menu {
+	top: 32px; /* on prend en compte le décalage */
+}
