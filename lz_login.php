@@ -10,6 +10,6 @@
 	</form>
 	<div id="pbConnexion">
 		<a href="mdpOublie" class="lien">Mot de passe oublié ?</a>
-		<a href="Inscription.html" class="lien">Créer un compte</a>
+		<a href="Inscription.php" class="lien">Créer un compte</a>
 	</div>
 </section>
